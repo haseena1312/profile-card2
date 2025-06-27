@@ -1,0 +1,23 @@
+.trt{
+    background-color: red;
+    height: 200px;
+    width: 700px;
+    
+}
+.cd1{
+    background-color: rgb(128, 128, 128);
+    height: 600px;
+    width: 700px;
+    border-bottom-right-radius: 10%;
+    
+}
+.cd2{
+    position: absolute;
+    border-radius: 50%;
+    left: 15%;
+    top:15%;
+
+}
+.c2{
+    border-radius: 50%;
+}
